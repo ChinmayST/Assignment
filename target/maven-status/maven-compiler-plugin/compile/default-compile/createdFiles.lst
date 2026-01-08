@@ -1,0 +1,11 @@
+com\visa\model\DocumentType.class
+com\visa\config\RuleLoader.class
+com\visa\model\VisaType.class
+com\visa\model\Country.class
+com\visa\config\RuleConfig.class
+com\visa\model\TravelPurpose.class
+com\visa\model\VisaDecision.class
+com\visa\engine\VisaRuleEvaluator.class
+com\visa\config\RuleLoader$1.class
+com\visa\Main.class
+com\visa\engine\RuleRepository.class

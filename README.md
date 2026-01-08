@@ -1,1 +1,1 @@
-# Assignment
+   mvn exec:java

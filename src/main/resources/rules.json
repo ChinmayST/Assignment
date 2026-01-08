@@ -1,0 +1,38 @@
+[
+  {
+    "from": "UK",
+    "to": "USA",
+    "purpose": "TOURISM",
+    "maxDays": 90,
+    "visaType": "TOURIST",
+    "documents": ["PASSPORT"],
+    "processingDays": 14
+  },
+  {
+    "from": "INDIA",
+    "to": "USA",
+    "purpose": "BUSINESS",
+    "maxDays": 180,
+    "visaType": "BUSINESS",
+    "documents": ["PASSPORT", "PHOTO", "ADDRESS_PROOF"],
+    "processingDays": 30
+  },
+  {
+    "from": "USA",
+    "to": "UK",
+    "purpose": "STUDY",
+    "maxDays": 365,
+    "visaType": "STUDENT",
+    "documents": ["PASSPORT", "PHOTO"],
+    "processingDays": 45
+  },
+  {
+      "from": "INDIA",
+      "to": "UK",
+      "purpose": "TOURISM",
+      "maxDays": 30,
+      "visaType": "TOURIST",
+      "documents": ["PASSPORT"],
+      "processingDays": 15
+  }
+]
